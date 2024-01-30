@@ -1,5 +1,7 @@
-Project Theme: Screen Recorder application using python
+Project Theme: Screen Recorder application using python.
+
 Environment or Operation System platform: Windows 8.1/10/11
+
 Editor: Python IDLE or VS Code
 
 How to use?
