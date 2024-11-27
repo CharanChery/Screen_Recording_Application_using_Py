@@ -39,8 +39,8 @@ git clone https://github.com/CharanChery/Screen_Recording_Application_using_Py.g
 ```
 
 
-```Navigate to the project directory:
-
+Navigate to the project directory:
+```
 cd Screen_Recording_Application_using_Py
 ```
 
