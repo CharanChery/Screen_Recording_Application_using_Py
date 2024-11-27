@@ -44,7 +44,8 @@ Navigate to the project directory:
 cd Screen_Recording_Application_using_Py
 ```
 
-```Install the required libraries:
+Install the required libraries:
+```
 pip install -r requirements.txt
 ```
 
